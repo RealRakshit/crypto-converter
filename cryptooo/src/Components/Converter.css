@@ -1,0 +1,16 @@
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.converter-card{
+    width: 400px;
+}
+
+.selectbox{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
